@@ -33,17 +33,22 @@ app/
 ## Run Locally
 
 ### 1. Clone repo
-```
+
 git clone https://github.com/shaifalichouhan/task-manager-api.git
+```
 cd task-manager-api
 ```
 
 ### 2. Create virtual environment
 ```
 python -m venv .venv
+```
 # Windows
+```
 .\.venv\Scriptsctivate
+```
 # macOS/Linux
+```
 source .venv/bin/activate
 ```
 
